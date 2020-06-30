@@ -3,11 +3,11 @@ This workshop covers the concepts to move an existing database application to th
 
 ## Instructor-led Training
 
-For instructor-led training click this link:  [Instructor-led](https://mw-orcl.github.io/Move_Improve/instructor-led/index.html)
+For instructor-led training click this link:  [Instructor-led](https://minqiaowang.github.io/Move_Improve/instructor-led/index.html)
 
 ## Self-paced Learning
 
-For self-paced learning using your own account click this link:  [Self-paced](https://mw-orcl.github.io/Move_Improve/self-paced/index.html)
+For self-paced learning using your own account click this link:  [Self-paced](https://minqiaowang.github.io/Move_Improve/self-paced/index.html)
 
 ## Get an Oracle Cloud Trial Account for Free!
 

@@ -2,7 +2,7 @@
 
 To log in to the Oracle Cloud, you will need the following.
 
-Oracle Cloud URL:  https://console.ap-seoul-1.oraclecloud.com
+Oracle Cloud URL:  https://console.ap-chuncheon-1.oraclecloud.com
 
 Cloud Tenant:  oraclepartnersas
 
@@ -16,11 +16,7 @@ Password:  CloudyDay#2020
 
 You will be doing all your labs in one of the Oracle Cloud regions below.  You will be choosing the region closest to you.
 
-Australia Southeast (Melbourne)
-
 South Korea (Chuncheon)
-
-India South (Hyderabad)
 
 <img src="./images/region.PNG" style="zoom: 50%;" />
 
